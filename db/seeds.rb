@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-require 'Faker'
+require 'faker'
 
 city_array = []
 8.times do 
