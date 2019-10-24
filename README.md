@@ -6,6 +6,6 @@
 
 Random BDD:<br/>
 `$ rails db :migrate`<br/>
-`$ rails db:seed</p>`
+`$ rails db:seed`
 
 <h4>Made in Montpellier</h4>
